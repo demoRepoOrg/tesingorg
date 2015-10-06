@@ -21,8 +21,7 @@ app.controller('MainCtrl', function($scope, $state) {
               "viewTwo":{
                 template: '<div>how</div>'
               }
-            }
-            
+           
       
         
  
